@@ -33,7 +33,7 @@ jobs:
       - name: Run a multi-line script job1
         run: |
           echo Date to job1,
-          echo date +"%d/%m/%Y %H:%M:%S"
+          date +"%d/%m/%Y %H:%M:%S"
   job2:
     # The type of runner that the job will run on
     runs-on: windows-latest
@@ -51,7 +51,7 @@ jobs:
       - name: Run a multi-line script job2
         run: |
           echo Date to job2,
-          echo %date%
+          date
   job3:
     # The type of runner that the job will run on
     runs-on: macos-latest
