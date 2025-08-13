@@ -1,14 +1,14 @@
 # Tabla de Contenidos
 
-9. [Environment Variables](#environment-variables)
-8. [Passing Arguments to an Action](#passing-arguments-to-an-action)
-7. [Develop a Complex Workflow](#develop-a-complex-workflow)
-6. [Workflow and Action Limitations](#workflow-and-action-limitations)
-5. [Conditionals](#conditionals)
-4. [Adding Dependencies](#adding-dependencies)
-3. [Adding a Command](#adding-a-command)
-2. [Adding an Action](#adding-an-action)
 1. [YAML en Github](#yaml-en-github)
+2. [Adding an Action](#adding-an-action)
+3. [Adding a Command](#adding-a-command)
+4. [Adding Dependencies](#adding-dependencies)
+5. [Conditionals](#conditionals)
+6. [Workflow and Action Limitations](#workflow-and-action-limitations)
+7. [Develop a Complex Workflow](#develop-a-complex-workflow)
+8. [Passing Arguments to an Action](#passing-arguments-to-an-action)
+9. [Environment Variables](#environment-variables)
 
 ---
 
