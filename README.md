@@ -9,8 +9,13 @@
 7. [Develop a Complex Workflow](#develop-a-complex-workflow)
 8. [Passing Arguments to an Action](#passing-arguments-to-an-action)
 9. [Environment Variables](#environment-variables)
+10. [Using secrets](#using-secrets)
 
 ---
+
+## Using secrets
+![Imagen de GitHub](https://github.com/ariegd/automate/blob/main/src/img/Captura%20desde%202025-08-13%2014-48-07.png)
+![Imagen de GitHub](https://github.com/ariegd/automate/blob/main/src/img/Captura%20desde%202025-08-13%2014-48-12.png)
 
 ## Environment Variables
 ![Imagen de GitHub](https://github.com/ariegd/automate/blob/main/src/img/Captura%20desde%202025-08-13%2014-48-07.png)
