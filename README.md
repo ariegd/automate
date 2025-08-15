@@ -14,8 +14,8 @@
 ---
 
 ## Using secrets
-![Imagen de GitHub](https://github.com/ariegd/automate/blob/main/src/img/Captura%20desde%202025-08-13%2014-48-07.png)
-![Imagen de GitHub](https://github.com/ariegd/automate/blob/main/src/img/Captura%20desde%202025-08-13%2014-48-12.png)
+![Imagen de GitHub](https://github.com/ariegd/automate/blob/main/src/img/Captura%20desde%202025-08-13%2016-06-43.png)
+![Imagen de GitHub](https://github.com/ariegd/automate/blob/main/src/img/Captura%20desde%202025-08-13%2016-07-40.png)
 
 ## Environment Variables
 ![Imagen de GitHub](https://github.com/ariegd/automate/blob/main/src/img/Captura%20desde%202025-08-13%2014-48-07.png)
