@@ -10,8 +10,13 @@
 8. [Passing Arguments to an Action](#passing-arguments-to-an-action)
 9. [Environment Variables](#environment-variables)
 10. [Using secrets](#using-secrets)
+11. [Play your CI/CD pipeline](#play-your-ci/cd-pipeline)
 
 ---
+
+## Play your CI/CD pipeline
+
+
 
 ## Using secrets
 ![Imagen de GitHub](https://github.com/ariegd/automate/blob/main/src/img/Captura%20desde%202025-08-13%2016-06-43.png)
