@@ -11,12 +11,16 @@
 9. [Environment Variables](#environment-variables)
 10. [Using secrets](#using-secrets)
 11. [Play your CI/CD pipeline](#play-your-ci/cd-pipeline)
+12. [Linting and unit tests](#linting-and-unit-tests)
 
 ---
 
+## Linting and unit tests
+
 ## Play your CI/CD pipeline
-
-
+![Imagen de GitHub](https://github.com/ariegd/automate/blob/04_01/src/img/Captura%20desde%202025-08-17%2023-18-23.png)
+![Imagen de GitHub](https://github.com/ariegd/automate/blob/04_01/src/img/Captura%20desde%202025-08-17%2023-19-09.png)
+![Imagen de GitHub](https://github.com/ariegd/automate/blob/04_01/src/img/Captura%20desde%202025-08-17%2023-19-52.png)
 
 ## Using secrets
 ![Imagen de GitHub](https://github.com/ariegd/automate/blob/main/src/img/Captura%20desde%202025-08-13%2016-06-43.png)
