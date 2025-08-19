@@ -1,8 +1,10 @@
 #!/usr/bin/python3
 # tests/test_main.py
 
-from mi_app import sumar
-from mi_app import restar
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from mi_app import sumar, restar
 
 def test_sumar_numeros_positivos():
     """
