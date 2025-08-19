@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # mi_app/main.py
 
 def sumar(a, b):
