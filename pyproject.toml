@@ -10,6 +10,9 @@ authors = [
 ]
 description = "Un paquete de ejemplo."
 requires-python = ">=3.7"
+dependencies = [
+    "pytest"
+]
 
 [tool.setuptools.packages.find]
 where = ["src"] # Le dice a setuptools que busque paquetes en la carpeta 'src'
