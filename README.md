@@ -1,4 +1,4 @@
-# Create a custom action:  ![](https://github.com/automate6500/python-web-app-cicd/workflows/Pipeline/badge.svg)
+# Create a custom action: [![Custom](https://github.com/ariegd/automate/actions/workflows/custom.yml/badge.svg)](https://github.com/ariegd/automate/actions/workflows/custom.yml)
 
 # Solution: 
 This is my custom action
