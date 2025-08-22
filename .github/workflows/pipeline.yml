@@ -1,5 +1,5 @@
 
-name: Python Pipeline
+name: Python Pipeline CI/CD
 
 on: push
 
