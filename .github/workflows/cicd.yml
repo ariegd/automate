@@ -1,6 +1,9 @@
 name: Python Pipeline CI/CD
 
-on: push
+on: 
+  push:
+      branches:
+        - CICD_pipeline  # Ejecuta solo cuando se hace push a la rama 'CICD_pipeline'
 
 jobs:
   test:
