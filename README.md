@@ -1,4 +1,4 @@
-# Create a python pipeline:  ![](https://github.com/automate6500/python-web-app-cicd/workflows/Pipeline/badge.svg)
+# Create a python pipeline: [![Python Pipe](https://github.com/ariegd/automate/actions/workflows/pipe.yml/badge.svg)](https://github.com/ariegd/automate/actions/workflows/pipe.yml)
 
 # Use Case: Continuous Integration
 Demonstrating continuous integration with GitHub Actions
