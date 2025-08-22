@@ -4,5 +4,5 @@ jobs:
   main:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: automate/custom-action@main
+      - uses: actions/checkout@v2
+      - uses: console6500/custom-action@main
