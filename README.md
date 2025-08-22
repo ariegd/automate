@@ -1,11 +1,11 @@
-# Create a python pipeline:  ![](https://github.com/automate6500/python-web-app-cicd/workflows/Pipeline/badge.svg)
+# Create a custom action:  ![](https://github.com/automate6500/python-web-app-cicd/workflows/Pipeline/badge.svg)
 
-# Use Case: Continuous Integration
-Demonstrating continuous integration with GitHub Actions
+# Solution: 
+This is my custom action
 
 Files include:
 
-- Python web app and requirements.txt
+- README file
 - Dockerfile for creating a container for the app
 - CI/CD pipeline styled workflow triggered on push
 
