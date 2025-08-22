@@ -12,6 +12,6 @@ Files include:
 :D
 
 ## Add a workflow status badge
-![Imagen de GitHub](https://github.com/ariegd/automate/blob/04_03/src/img/Captura%20desde%202025-08-21%2020-06-10.png)
-![Imagen de GitHub](https://github.com/ariegd/automate/blob/04_03/src/img/Captura%20desde%202025-08-21%2020-06-10.png)
+![Imagen de GitHub](https://github.com/ariegd/automate/blob/04_06/src/img/Captura%20desde%202025-08-22%2011-02-23.png)
+![Imagen de GitHub](https://github.com/ariegd/automate/blob/04_06/src/img/Captura%20desde%202025-08-22%2011-28-56.png)
 
