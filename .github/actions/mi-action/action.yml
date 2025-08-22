@@ -1,5 +1,0 @@
-name: "Mi Action Docker"
-description: "Una acción que corre en un contenedor Docker"
-runs:
-  using: "docker"
-  image: "Dockerfile"
